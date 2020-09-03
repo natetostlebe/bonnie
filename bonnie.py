@@ -357,7 +357,7 @@ def respond(voice_data):
 
     if there_exists(["exit", "quit", "goodbye",'goodbye bonnie']):
         #engine_speak("bye")
-        playsound.playsound('You Son of a bitch.wav')
+        playsound.playsound('C:\Users\Nate\Documents\GitHub\samantha\audio\You Son of a bitch.wav')
         exit()
 
     # Current city or region
